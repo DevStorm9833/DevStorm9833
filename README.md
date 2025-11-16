@@ -11,6 +11,19 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
 🥷 Copy Ninja • Sharingan • Lightning Blade ⚡
 
+K   K   A   K   K   A   SSSS   H   H   I
+K  K   A A  K  K   A A  S      H   H   I
+KKK   AAAAA KKK   AAAAA  SSS   HHHHH   I
+K  K  A   A K  K  A   A     S  H   H   I
+K   K A   A K   K A   A SSSS   H   H   I
+
+_  __   _   _    _   _   ___   _   _   ___ 
+| |/ /  / \ | |  | | / / / _ \ | | | | / _ \
+| ' /  / _ \| |  | |/ / | | | || | | || | | |
+| . \ / ___ \ |__| |\ \ | |_| || |_| || |_| |
+|_|\_/_/   \_\____/|_\_\ \___/  \___/  \___/
+
+
 ```
 
 
