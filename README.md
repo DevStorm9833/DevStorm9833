@@ -12,7 +12,7 @@
 
 ```
 
-[Music: Naruto Main Theme](https://www.youtube.com/search?q=Naruto+Main+theme) 
+[Music: Naruto Main Theme](https://www.youtube.com/watch?v=xhWW7F5xtac&list=RDxhWW7F5xtac&start_radio=1) 
 
 
 <!--
