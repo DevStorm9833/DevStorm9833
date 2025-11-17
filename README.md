@@ -12,7 +12,7 @@
 
 ```
 
-[![Music](https://img.shields.io/badge/YouTube_Music-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.music.youtube.com/search?q=Naruto+Main+theme) 
+[![Music](https://img.shields.io/badge/Naruto_Main_theme-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/search?q=Naruto+Main+theme) 
 
 
 <!--
