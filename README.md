@@ -12,6 +12,7 @@
 
 ```
 
+[![Music](https://img.shields.io/badge/YouTube_Music-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtubemusic.com/search?q=Naruto+Main+theme) 
 
 
 <!--
