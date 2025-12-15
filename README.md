@@ -72,7 +72,7 @@ __   __   ___ __   __   ___   _____  __   __ __
 - 😄 Pronouns: ...
 # ⚡ Fun fact: 
 - ☕ Coffee-to-code ratio: 1:100 lines
-- 🤔 Favorite debugging method: Rubber duck debugging (it works!)
+- 🐥 Favorite debugging method: Rubber duck debugging (it works!)
 
 <!---
 DevStorm9833/DevStorm9833 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
