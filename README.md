@@ -70,7 +70,7 @@ __   __   ___ __   __   ___   _____  __   __ __
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-# ⚡ Fun fact: 
+# 😂 Fun fact: 
 - ☕ Coffee-to-code ratio: 1:100 lines
 - 🐥 Favorite debugging method: [Rubber Duck Debugging](https://www.google.com/search?q=Rubber+Duck+Debugging) (it works!)
 
